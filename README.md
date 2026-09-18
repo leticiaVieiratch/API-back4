@@ -62,10 +62,10 @@ Retorna a data e hora atual em JSON:
    - Start Command: `npm start`
 5. Aguarde o deploy e copie a URL pública gerada
 
-## URL pública de exemplo
+## URL pública
 
 ```bash
-https://SEU-BACKEND.onrender.com/data-hora
+https://api-back4.onrender.com/
 ```
 
 ## Repositórios
